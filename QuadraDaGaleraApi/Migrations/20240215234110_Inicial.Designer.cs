@@ -10,8 +10,8 @@ using QuadraDaGaleraApi.infra;
 namespace QuadraDaGaleraApi.Migrations
 {
     [DbContext(typeof(QuadraDaGaleraDbContext))]
-    [Migration("20240215225826_Initial")]
-    partial class Initial
+    [Migration("20240215234110_Inicial")]
+    partial class Inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
