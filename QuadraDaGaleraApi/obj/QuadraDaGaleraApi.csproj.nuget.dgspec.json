@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj": {}
+    "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj": {
+    "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj",
+        "projectUniqueName": "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj",
         "projectName": "QuadraDaGaleraApi",
-        "projectPath": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\obj\\",
+        "projectPath": "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\QuadraDaGaleraApi.csproj",
+        "packagesPath": "C:\\Users\\Mooses\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mooses\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,13 +46,31 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.6, )"
             },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
