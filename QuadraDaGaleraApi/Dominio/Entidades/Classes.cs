@@ -1,8 +1,6 @@
-﻿// Na sequencia crie as classes aqui
-
 using System.Diagnostics.Contracts;
 
-public class Usuario
+public class User
 {
     public String name { get; set; }
     public String email { get; set; }
@@ -12,7 +10,7 @@ public class Usuario
 
 }
 
-public class Estabelecimento
+public class Establishment
 {
     public String name { get; set; }
     public String? cnpj { get; set; }
@@ -22,35 +20,34 @@ public class Estabelecimento
 
 }
 
-public class Endereco
+public class Adress
 {
     public int cep { get; set; }
-    public String state { get; set; }
+    public String state { get; set; } 
     public String city { get; set; }
     public String neighborhood { get; set; }
     public String street { get; set; }
     public int number { get; set; }
+
+public class Field
+{
+    public String name { get; set; }
+    public bool nightLighting {  get; set; }
+    public String surfacetType {  get; set; }
+    public bool isCovered {  get; set; }
+    public int capacity {  get; set; }
+    public string size { get; set; }
 }
 
-    public class Quadra
-    {
-        public String name { get; set; }
-        public bool nightLighting { get; set; }
-        public String surfacetType { get; set; }
-        public bool isCovered { get; set; }
-        public int capacity { get; set; }
-        public string size { get; set; }
-    }
+public class Match
+{
+    public DateTime StartTime { get; set; }
+    public DateTime EndTime { get; set; }
+    public TimeSpan Duration { get { return HoraInicio - HoraTermino } }
+    public List<Usuario> Players { get; set; }
 
-    public class Partida
+    public Partida()
     {
-        public DateTime StartTime { get; set; }
-        public DateTime EndTime { get; set; }
-        public TimeSpan Duration { get { return StartTime - EndTime; } }
-        public List<Usuario> Players { get; set; }
-
-        public Partida()
-        {
-            Players = new List<Usuario>();
-        }
+        Players = new List<Usuario>();
     }
+}
