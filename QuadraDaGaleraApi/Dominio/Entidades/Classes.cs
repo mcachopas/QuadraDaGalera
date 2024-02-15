@@ -22,25 +22,35 @@ public class Estabelecimento
 
 }
 
-public class Quadra
+public class Endereco
 {
-    public String name { get; set; }
-    public bool nightLighting {  get; set; }
-    public String surfacetType {  get; set; }
-    public bool isCovered {  get; set; }
-    public int capacity {  get; set; }
-    public string size { get; set; }
+    public int cep { get; set; }
+    public String state { get; set; }
+    public String city { get; set; }
+    public String neighborhood { get; set; }
+    public String street { get; set; }
+    public int number { get; set; }
 }
 
-public class Partida
-{
-    public DateTime StartTime { get; set; }
-    public DateTime EndTime { get; set; }
-    public TimeSpan Duration { get { return HoraInicio - HoraTermino } }
-    public List<Usuario> Players { get; set; }
-
-    public Partida()
+    public class Quadra
     {
-        Players = new List<Usuario>();
+        public String name { get; set; }
+        public bool nightLighting { get; set; }
+        public String surfacetType { get; set; }
+        public bool isCovered { get; set; }
+        public int capacity { get; set; }
+        public string size { get; set; }
     }
-}
+
+    public class Partida
+    {
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
+        public TimeSpan Duration { get { return StartTime - EndTime; } }
+        public List<Usuario> Players { get; set; }
+
+        public Partida()
+        {
+            Players = new List<Usuario>();
+        }
+    }
