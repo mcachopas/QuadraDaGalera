@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\projetos\\quadradagalera\\quadradagalera\\quadradagaleraapi\\migrations\\20240215225826_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,13 +75,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Classes.cs",
-              "DocumentMoniker": "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Classes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Classes.cs",
               "RelativeDocumentMoniker": "Dominio\\Entidades\\Classes.cs",
-              "ToolTip": "C:\\Projetos\\QuadraDaGalera\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Classes.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Classes.cs",
               "RelativeToolTip": "Dominio\\Entidades\\Classes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T23:25:40.278Z",
+              "WhenOpened": "2024-02-06T23:34:53.633Z",
               "EditorCaption": ""
             }
           ]
