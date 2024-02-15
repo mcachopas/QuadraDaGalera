@@ -1,5 +1,3 @@
-// Na sequencia crie as classes aqui
-
 using System.Diagnostics.Contracts;
 
 public class User
