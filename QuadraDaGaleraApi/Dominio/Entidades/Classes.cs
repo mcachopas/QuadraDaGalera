@@ -48,6 +48,6 @@ public class Match
 
     public Partida()
     {
-        Players = new List<Usuario>();
+        Players = new List<User>();
     }
 }
