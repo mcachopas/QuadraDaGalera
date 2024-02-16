@@ -1,13 +1,11 @@
-﻿namespace QuadraDaGaleraApi.Dominio.Entidades
+﻿namespace QuadraDaGaleraApi.Dominio.Dtos
 {
-    public class User
+    public class CreateUserDto
     {
-        Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
         public DateTime DateBirth { get; set; }
         public string Telephone { get; set; } = string.Empty;
         public bool IsWhatsApp { get; set; }
-
     }
 }
