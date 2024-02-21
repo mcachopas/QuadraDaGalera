@@ -134,3 +134,5 @@ _NCrunch*
 *.json
 *.vsidx
 *.config
+*.bin
+*.v2
