@@ -1,6 +1,6 @@
 ﻿namespace QuadraDaGaleraApi.Dominio.Entidades
 {
-    public class Address
+    public class Address : BaseObject
     {
         public int CEP { get; set; }
         public string State { get; set; } = string.Empty;

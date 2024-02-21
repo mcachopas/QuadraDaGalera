@@ -1,6 +1,6 @@
 ﻿namespace QuadraDaGaleraApi.Dominio.Entidades
 {
-    public class Field
+    public class Field : BaseObject
     {
         public string Name { get; set; } = string.Empty;
         public bool NightLighting { get; set; }
