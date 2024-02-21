@@ -8,6 +8,8 @@
         public DateTime DateBirth { get; set; }
         public string Telephone { get; set; } = string.Empty;
         public bool IsWhatsApp { get; set; }
+        public Address Adress { get; set; } = new();
+
 
     }
 }
