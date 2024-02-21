@@ -1,8 +1,7 @@
 ﻿namespace QuadraDaGaleraApi.Dominio.Entidades
 {
-    public class Establishment
+    public class Establishment : BaseObject
     {
-        Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public string? CNPJ{ get; set; }
         public DateTime OpeningTime { get; set; }

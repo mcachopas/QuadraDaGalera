@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\users\\danie\\onedrive\\documentos\\projeto futebol\\quadradagalera\\quadradagaleraapi\\dominio\\entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|solutionrelative:dominio\\entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\users\\danie\\onedrive\\documentos\\projeto futebol\\quadradagalera\\quadradagaleraapi\\dominio\\entidades\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|solutionrelative:dominio\\entidades\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\users\\danie\\onedrive\\documentos\\projeto futebol\\quadradagalera\\quadradagaleraapi\\dominio\\entidades\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|solutionrelative:dominio\\entidades\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\users\\danie\\onedrive\\documentos\\projeto futebol\\quadradagalera\\quadradagaleraapi\\dominio\\entidades\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|solutionrelative:dominio\\entidades\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\users\\danie\\onedrive\\documentos\\projeto futebol\\quadradagalera\\quadradagaleraapi\\dominio\\entidades\\establishment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|solutionrelative:dominio\\entidades\\establishment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\users\\danie\\onedrive\\documentos\\projeto futebol\\quadradagalera\\quadradagaleraapi\\dominio\\entidades\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|solutionrelative:dominio\\entidades\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|c:\\users\\danie\\onedrive\\documentos\\projeto futebol\\quadradagalera\\quadradagaleraapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4910E330-A2F5-44E6-A58F-83B627B42D42}|QuadraDaGaleraApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +48,89 @@
         },
         {
           "DockedWidth": 177,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Establishment.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Establishment.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Establishment.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Establishment.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Establishment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:24:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Field.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Field.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Field.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Field.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:24:16.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Match.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Match.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Match.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:23:58.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\User.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\User.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\User.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:22:57.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Object.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Object.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Object.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Object.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:14:26.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Address.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Address.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Dominio\\Entidades\\Address.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T00:12:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\Projeto futebol\\QuadraDaGalera\\QuadraDaGaleraApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",

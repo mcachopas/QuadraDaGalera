@@ -1,6 +1,6 @@
 ﻿namespace QuadraDaGaleraApi.Dominio.Entidades
 {
-    public class Match
+    public class Match : BaseObject
     {
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }

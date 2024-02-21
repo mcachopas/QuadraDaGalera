@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadraDaGaleraApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea761ba771d4ae7fa5163b93b8c2cf1281bde29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8161e95b8c7ceb5d893009df9746b3da279ce3")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadraDaGaleraApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadraDaGaleraApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
