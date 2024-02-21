@@ -1,13 +1,11 @@
-﻿namespace QuadraDaGaleraApi.Dominio.Entidades
+namespace QuadraDaGaleraApi.Dominio.Dtos.EstablishmentDtos
 {
-    public class Establishment
+    public class CreateEstablishmentDto
     {
-        Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public string? CNPJ{ get; set; }
+        public string Address { get; set; } = string.Empty;
         public DateTime OpeningTime { get; set; }
         public DateTime CloseTime { get; set; }
-        public int SoccerFieldQuantity {get; set;}
-
     }
 }

@@ -25,8 +25,29 @@ namespace QuadraDaGaleraApi.Controllers
             return Ok("Data de nascimento alterada com sucesso");
         }
 
+        [HttpPut]
+        [Route("ChangeTelephone")]
+        public IActionResult ChangeTelephone(TelephoneUpdateDto telephoneUpdateDto)
+        {
+            return Ok("Número de telefone alterado com sucesso");
+        }
+
+        [HttpPut]
+        [Route("ChangeIsWhatsapp")]
+        public IActionResult ChangeIsWhatsapp(IsWhatsAppUpdateDto isWhatsAppUpdateDto)
+        {
+            return Ok("É whatsapp alterado com sucesso");
+        }
+
+        [HttpPut]
+        [Route("ChangeUserName")]
+        public IActionResult ChangeUserName(UserNameUpdateDto userNameUpdateDto)
+        {
+            return Ok("Nome de usuário alterado com sucesso");
+        }
+
         [HttpDelete]
-        public IActionResult Delete(string id)
+        public IActionResult RemoveUser(string id)
         {
             return Ok("Usuário deletado com sucesso");
         }
